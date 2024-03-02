@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.solarsystem.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Paul\\Documents\\School\\Graduate\\Spring 2020\\ITCS 6125\\ITCS_VRAR\\itcs_6125_final_project\\SolarSystem\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "SolarSystem [Testing]"
+        }
+      }
+    }
+  ]
+}

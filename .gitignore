@@ -13,6 +13,7 @@ sysinfo.txt
 *.unitypackage
 [Aa]p/
 /Assets/Solar_System_Assets/Textures*
+/App/*
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
